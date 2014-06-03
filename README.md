@@ -13,3 +13,7 @@ http://swift-lang.org/
 
 * Examples
 
+* Develop Reference
+  
+  http://www.mac4ever.com/
+  
