@@ -9,7 +9,7 @@ http://swift-lang.org/
 
 * Learn
   
-https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html
+  https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html
 
 * Examples
 
